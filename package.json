@@ -1,6 +1,5 @@
 {
-  "name": "qui-react",
-  "private": true,
+  "name": "@keyu-tech/qui-react",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
